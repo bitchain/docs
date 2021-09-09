@@ -60,7 +60,7 @@ html, body {
   bottom: 0;
   width: $nav-width;
   background-color: $nav-bg;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 400;
 
   // language selector for mobile devices
@@ -170,7 +170,7 @@ html, body {
 
   .toc-h2 {
     padding-left: $nav-padding + $nav-indent;
-    font-size: 15px;
+    font-size: 13px;
   }
 
   .toc-footer {
@@ -410,7 +410,7 @@ html, body {
 
     td {
       padding: 10px;
-      font-size: 14px;
+      font-size: 13px;
     }
 
     tr:last-child {
@@ -499,7 +499,7 @@ html, body {
       margin: 0;
       text-transform: lowercase;
       font-weight: 400;
-      font-size: 14px;
+      font-size: 13px;
       padding-right: 28px;
       font-family: Consolas, Menlo, Monaco, "Lucida Console", "Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace, serif;
     }
@@ -513,7 +513,7 @@ html, body {
     background: $aside-notice-bg;
     line-height: 1.6;
     color: $aside-notice-text;
-    font-size: 14px;
+    font-size: 13px;
 
     &.warning {
       background-color: $aside-warning-bg;
@@ -529,7 +529,7 @@ html, body {
   aside:before {
     vertical-align: middle;
     padding-right: 0.5em;
-    font-size: 14px;
+    font-size: 13px;
     position: relative;
     top: -1px;
   }
